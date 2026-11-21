@@ -1,0 +1,19 @@
+{
+  "id": "./",
+  "name": "Blink Wash",
+  "short_name": "Blink Wash",
+  "description": "Blink Wash customer and billing manager",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f2f6fa",
+  "theme_color": "#071b36",
+  "icons": [
+    {
+      "src": "icon.svg",
+      "sizes": "any",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
